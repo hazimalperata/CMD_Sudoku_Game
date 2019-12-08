@@ -6,8 +6,8 @@ Current version = v1.0
 Change logs:
 
   v1.0 change log:
-   - Created "müko" sudoku game.
-   - Added main music.
+   - Created a "müko" sudoku game.
+   - Added a main music.
    - Solved coordinate problem.
    - Added asking question when exiting.
    - Added cooldown between screens.
